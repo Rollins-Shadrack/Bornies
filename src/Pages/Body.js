@@ -36,7 +36,7 @@ export default class Body extends Component{
                    <Link to="/contact" class="btn btn-outline-warning">Talk To Us</Link>
                 </div>
                 <div class="col-md-6 g-5 myImg" >
-                <img src="/Images/bank1.jpg" style={{width:"500px", height:"500px" ,borderRadius:"50%"
+                <img src="./Images/bank1.jpg" style={{width:"500px", height:"500px" ,borderRadius:"50%"
             }}  />
                 </div>
                  
