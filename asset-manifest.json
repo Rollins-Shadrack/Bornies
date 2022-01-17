@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bornies/static/css/main.5c11eaf2.css",
+    "main.js": "/Bornies/static/js/main.8446b879.js",
+    "static/js/787.30ad8236.chunk.js": "/Bornies/static/js/787.30ad8236.chunk.js",
+    "index.html": "/Bornies/index.html",
+    "main.5c11eaf2.css.map": "/Bornies/static/css/main.5c11eaf2.css.map",
+    "main.8446b879.js.map": "/Bornies/static/js/main.8446b879.js.map",
+    "787.30ad8236.chunk.js.map": "/Bornies/static/js/787.30ad8236.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c11eaf2.css",
+    "static/js/main.8446b879.js"
+  ]
+}
