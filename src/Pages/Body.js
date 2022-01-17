@@ -36,7 +36,7 @@ export default class Body extends Component{
                    <Link to="/contact" class="btn btn-outline-warning">Talk To Us</Link>
                 </div>
                 <div class="col-md-6 g-5 myImg" >
-                <img src="./Images/bank1.jpg" style={{width:"500px", height:"500px" ,borderRadius:"50%"
+                <img src="Images/bank1.jpg" style={{width:"500px", height:"500px" ,borderRadius:"50%"
             }}  />
                 </div>
                  
@@ -49,7 +49,7 @@ export default class Body extends Component{
             <div class="row pt-5 container">
                 
                 <div class="col-sm g-3 myImg">
-<img src="/Images/about1.jpg" style={{width:"500px", height:"425px",borderRadius:"10px"}} />
+<img src="Images/about1.jpg" style={{width:"500px", height:"425px",borderRadius:"10px"}} />
                 </div>
                 <div class="col-sm g-3" style={{background:"#99FFFF",borderRadius:"10px"}}>
                 <h2 class="text-center " style={{color:'purple'}}>About us</h2>
@@ -165,7 +165,7 @@ export default class Body extends Component{
                       <div class="col-sm g-5">
                           <div class="row" style={{boxShadow:"rgba"}}>
                               <div class="col-sm-5">
-                                  <img src="/Images/banka.jpg" style={{width:"200px", borderRadius:"50%"}}/>
+                                  <img src="Images/banka.jpg" style={{width:"200px", borderRadius:"50%"}}/>
                               </div>
                               <div class="col-sm-5">
                                 <h2>Nail Care</h2>
@@ -178,7 +178,7 @@ export default class Body extends Component{
                       <div class="col-sm g-5">
                           <div class="row">
                               <div class="col-sm-5">
-                                  <img src="/Images/braid.jpg" style={{width:"200px", borderRadius:"50%"}}/>
+                                  <img src="Images/braid.jpg" style={{width:"200px", borderRadius:"50%"}}/>
                               </div>
                               <div class="col-sm-5">
                                 <h2>Hair Style</h2>
@@ -189,7 +189,7 @@ export default class Body extends Component{
                       <div class="col-sm g-5">
                           <div class="row" style={{border:"4px solid rgba(0,0,0,0.5))"}}>
                               <div class="col-sm-5">
-                                  <img src="/Images/waxing.jpg" style={{width:"200px", borderRadius:"50%"}}/>
+                                  <img src="Images/waxing.jpg" style={{width:"200px", borderRadius:"50%"}}/>
                               </div>
                               <div class="col-sm-5">
                                 <h2>Waxing</h2>
